@@ -5,7 +5,7 @@ La evolución natural de los medios y el ordenador como "metamedio" ha pasado de
 - Kitty Zasca
 - Geogebra
 
-Ambos, como digo, productos muy diferentes, pero definidos por un nexo común: La hibridación.
+> Ambos, como digo, productos muy diferentes, pero definidos por un nexo común: **La hibridación**.
 
 ## Primer caso: Zitty Zasca.
 
