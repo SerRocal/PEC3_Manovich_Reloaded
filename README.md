@@ -26,3 +26,13 @@ A través de la programación y los medios audiovisuales tenemos un producto tot
 ### **Conclusiones:**
 
 Esta serie es un caso perfecto para mostrar la hibridez de los medios en la cultura del software, ya no solo por la integración de diferentes medios y técnicas que dan como resultado la creación de algo "nuevo", sino que es esta **lógica de la hibridación,** propiamente, es la que la está transformando dicha cultura; "la **«hibridez de los medios»** constituye una nueva fase esencial de la historia de los medios. Se manifiesta en distintos ámbitos de la cultura y no tan solo en las imágenes en movimiento" (Manovich, 2013, P. 312)
+
+## **Segundo caso: Geogebra.**
+
+Geogebra integra la geometría, el álgebra, la estadística y el cálculo en su entorno interactivo. Haciendo posible el acceso desde la educación primaria a una base de enseñanza sobre esta disciplína tan básica. En la actualidad se ha convertido en una herramienta esencial de la enseñanza de las matemáticas a nivel mundial. Su interfaz permite una experiencia visual agradable y simplificada. Su software multiplataforma permite un mayor acceso y facilidad de uso a los usuarios. Vamos a definir las características principales de esta aplicación y por qué estamos ante un caso de  hibridación en estado puro. Así que vamos con algunas de las características más destacadas de Geogebra:
+
+
+
+
+
+> Geogebra es un software innovador en la educación de las matemáticas
