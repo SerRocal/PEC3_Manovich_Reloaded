@@ -5,12 +5,12 @@ La evolución natural de los medios y el ordenador como "metamedio" ha pasado de
 - Kitty Zasca
 - Geogebra
 
-Ambos, como digo, productos muy diferentes, pero definidos por un nexo común. La hibridación:
+Ambos, como digo, productos muy diferentes, pero definidos por un nexo común: La hibridación.
 
-## Caso Zitty Zasca:
+## Primer caso: Zitty Zasca.
 
 En entretenimiento infantil, como cualquier otro producto de los nuevos medios, está en constante evolución. Kitty Zasca emerge en 2022 como un producto pionero y distintivo, destacando su interactividad integrada y su hibridación de medios. Esta serie permite a los espectadores tomar ciertas decisiones sobre la trama, ir descubriendo la serie, incluso mundos ocultos, creando una experiencia multisensorial. ¿Pero qué tiene este producto digital y novedoso que no tengan otros? y ¿Por qué es una remezcla de contenidos y medios? Más allá de esa interactividad, es un referente en la hibridación y tengo algunos motivos muy claros para definir por qué:
 
-Mapa Interactivo:
+### Mapa Interactivo:
 
 Dentro de la serie existe un mapa interactivo incluido dentro de la propia plataforma, donde los contenidos se vuelven totalmente controlables por el usuario. Esto nos ofrece poder navegar por diferentes mapas, creando una experiencia no lineal, donde podemos visualizar nuestro progreso. Además, esto genera una novedosa experiencia visual y paralera al contenido principal, debido a los gráficos en movimiento al más puro estilo videojuego. Esta novedad no solo define que estamos ante un medio la televisión del futuro desde nuestra perspectiva, una remediación del propio medio, sino ante nuevas técnicas del siglo XXI que redefinen "un nuevo lenguaje visual híbrido de las imágenes en movimiento en general." (Manovich, 2013, P. 299)
