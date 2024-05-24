@@ -17,4 +17,14 @@ Dentro de la serie existe un mapa interactivo incluido dentro de la propia plata
 
 ### Técnicas de animación diversas:
 
-Esto es una técnica que se ha utilizado en otras series de animación, aunque cada una con sus propias carácterísticas, ya que cada software tiene sus propios algoritmos y estructuras de datos. En este caso vemos como en algunos capítulos se entremezclan los gráficos 2D con 3D más el mapa interactivo y gráficos en movimiento. Esto es una amalgama de estilos visuales que no solo enriquece esa narrativa visual, sino que muestra una vez más la versatilidad de las técnicas modernas. Esta nueva estética visual hibrida 
+Esto es una técnica que se ha utilizado en otras series de animación, aunque cada una con sus propias carácterísticas, ya que cada software tiene sus propios algoritmos y estructuras de datos. En este caso vemos como en algunos capítulos se entremezclan los gráficos 2D con 3D más el mapa interactivo y gráficos en movimiento. Esto es una amalgama de estilos visuales que no solo enriquece esa narrativa visual, sino que muestra una vez más la versatilidad de las técnicas modernas. Esta nueva estética hibrida va más allá de lo multimedia al fusionar lenguajes y técnicas de diversos medios gracias al software, generando nuevas formas de expresión visual
+
+### Gamnificación y toma de dedisiones:
+
+A traves de la programación y los medios audiovisuales tenemos un producto totalmente diferente, un producto hibrido que emerge como Manovich hacia previsión de lo que ya estaba ocurriendo y que sucedería de manera exponencial "Una vez traducidas a software, las técnicas de medios han empezado a actuar como una especie dentro una ecología común; en este caso, un entorno de software compartido. Una vez «liberadas» a este entorno, han empezado a interaccionar, mutar y fabricar híbridos" (Manovich, 2013, P. 188). En esta serie no solo necesitamos tener un mando técnologicamente adaptado para obtener una experiencia única basada en recompensas, sino que la toma de decisiones podemos disfrutar de distintos recorridos dentro de la serie, tanto de la trama principal como del mapa interactivo. Pero no, no os preocupéis, escojais el camino que escojáis, en esta serie, los buenos al final ganan, o no... logicamente no voy a espoilearos el final de las serie. 
+
+Conclusiones: 
+
+Esta serie es un caso perfecto para mostrar la hibridez de los medios, ya no solo por la creación de algo "nuevo" en la integración de diferentes medios y técnicas, también, sobre todo en este ejemplo, cuando hablamos de hibridación  
+
+
