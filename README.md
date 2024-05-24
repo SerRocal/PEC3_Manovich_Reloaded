@@ -1,4 +1,4 @@
-# PEC3: Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
+# PEC3: Visionando el futuro con las gafas de Manovich: Redescubriendo la hibridación
 
 La evolución natural de los medios y el ordenador como "metamedio" ha pasado de un paradigma multimedia, donde existía una combinación de medios más o menos coherente y ordenada, a una remezcla y fusión de estos. Los estudios del software nos desvelan que en la actualidad utilizamos esa remezcla de contenidos en continua expansión, tanto de un mismo medio como procedente de otros (Manovich, 2013, P. 313), en lo  que denomina Manovich como «remezclabilidad profunda» y que produce un "metalenguaje". Esta remezlca es la esencia de lo que denominamos "hibridación de medios". Pero para entender esta y otras características de la hibridación y el paradigma actual del software de medios no hay nada mejor que aplicarlos a ejemplos y productos que existen en la actualidad. Por eso, he elegido dos productos novedosos y diferentes, para explicar en que consiste dicha hibridación:
 
@@ -14,3 +14,7 @@ En entretenimiento infantil, como cualquier otro producto de los nuevos medios, 
 ### Mapa Interactivo:
 
 Dentro de la serie existe un mapa interactivo incluido dentro de la propia plataforma, donde los contenidos se vuelven totalmente controlables por el usuario. Esto nos ofrece poder navegar por diferentes mapas, creando una experiencia no lineal, donde podemos visualizar nuestro progreso. Además, esto genera una novedosa experiencia visual y paralera al contenido principal, debido a los gráficos en movimiento al más puro estilo videojuego. Esta novedad no solo define que estamos ante un medio la televisión del futuro desde nuestra perspectiva, una remediación del propio medio, sino ante nuevas técnicas del siglo XXI que redefinen "un nuevo lenguaje visual híbrido de las imágenes en movimiento en general." (Manovich, 2013, P. 299)
+
+### Técnicas de animación diversas:
+
+Esto es una técnica que se ha utilizado en otras series de animación, aunque cada una con sus propias carácterísticas, ya que cada software tiene sus propios algoritmos y estructuras de datos. En este caso vemos como en algunos capítulos se entremezclan los gráficos 2D con 3D más el mapa interactivo y gráficos en movimiento. Esto es una amalgama de estilos visuales que no solo enriquece esa narrativa visual, sino que muestra una vez más la versatilidad de las técnicas modernas. Esta nueva estética visual hibrida 
