@@ -31,9 +31,19 @@ Esta serie es un caso perfecto para mostrar la hibridez de los medios en la cult
 
 Geogebra integra la geometría, el álgebra, la estadística y el cálculo en su entorno interactivo. Haciendo posible el acceso desde la educación primaria a una base de enseñanza sobre esta disciplína tan básica. En la actualidad se ha convertido en una herramienta esencial de la enseñanza de las matemáticas a nivel mundial. Su interfaz permite una experiencia visual agradable y simplificada. Su software multiplataforma permite un mayor acceso y facilidad de uso a los usuarios. Vamos a definir las características principales de esta aplicación y por qué estamos ante un caso de  hibridación en estado puro. Así que vamos con algunas de las características más destacadas de Geogebra:
 
-### **Interactividad**
+### **Interactividad y representación en tiempo real**
 
-La interactividad de Geogebra se basa en la manipulación de construcciones matemáticas y ver sus efectos en tiempo real. Los usuarios en base a sus necesidades van realizando planteamientos y soluciones matemáticas de manera gráfica de múltiples maneras combinando estas partes de manera conjunta y remlezclandolas según las necesidades para obtener nuevos resultados de nuevos problemas matemáticos. 
-
+La interactividad de Geogebra se basa en la manipulación de construcciones matemáticas y ver sus efectos en tiempo real. Los usuarios en base a sus necesidades van realizando planteamientos y soluciones matemáticas de manera gráfica y de múltiples maneras, combinando estas partes de manera conjunta y remlezclandolas según sus necesidades, obteniendo así nuevos resultados a nuevos problemas planteados. El formato del diseño gráfico se fusiona con las matemáticas para dar una experiecnia reveladora y única a los usuarios, ya que la construcción se realiza de manera paralela. Esta hibridación consigue un producto real y tangible, ya que las matemáticas no son abstractas, pero el pilar de su enseñanza ha sido así durante generaciones, con lo que se puede conformar en la mente del usuario una aplicación plausible de estas. Estamos ante una nueva manera de interaccionar con la remezcla de diversos "medios, algoritmos y estructuras de datos" (Manovich, 2013, P. 241). Un nuevo tipo de representación hibrida a base de gráficos vectoriales en tiempo real a golpe de clic, algoritmos y formulas. Se da así un nuevo producto cultural interactivo. 
 
 > Geogebra es un software innovador en la educación de las matemáticas
+
+### **Diversidad de gráficos**
+
+Además de esta remezcla de medios, como la esencia de su programación incrustada en una web o su manera de crear diferentes partes gráficas relacionadas con algoritmos internos o fórmulas externas proporcionadas por el usuario, dentro del aspecto púramente gráfico que compone dicha aplicación, nos encontramos con otras fusiones de medios sobre estos aspectos. No hay que olvidar que Geogebra puede dar resultados en 2D y 3D, con lo que aumenta sus posibilidades y aplicaciones en el mundo real y didáctico se vuelven exponenciales. ¿Pero, no hay otros softwares que sostienen su representación gráfica tanto en 2D como en 3D? ¿Cómo distinguimos que estamos ante un medio hibrido? En la "teoría de la cultura del software como un conjunto amplio y en continuo crecimiento de técnicas que pueden combinarse de muchas maneras, en forma de aplicaciones, y proyectos/productos creados para ellas, o a través de una programación personalizada" Manovich, 2013, P. 278) en ningún caso se excluye la idea de que los medios hibridos no puedan compartir muchas características con otros, como si de otras especies estuvieramos hablando, pero sí que poseen también características únicas, como es el caso de Geogebra. 
+
+### **Conclusiones**
+
+Creación de un nuevo lenguaje
+
+
+
