@@ -1,11 +1,11 @@
 # **PEC3: Visionando el futuro con las gafas de Manovich: Redescubriendo la hibridación**
 
-La evolución natural de los medios y el ordenador como **"metamedio"** ha pasado de un paradigma multimedia, donde existía una combinación de medios más o menos coherente y ordenada, a **una remezcla y fusión de estos.** Los estudios del software nos desvelan que en la actualidad utilizamos esa remezcla de contenidos en continua expansión, tanto de un mismo medio como procedente de otros (Manovich, 2013, P. 313), en lo  que **denomina Manovich como «remezclabilidad profunda»** y que produce un **"metalenguaje".** Esta remezcla es la esencia de lo que denominamos **"hibridación de medios"**. Pero para entender esta y otras características de la hibridación y el paradigma actual del software de medios, no hay nada mejor que aplicarlos a ejemplos y productos que existen en la actualidad. Por eso, he elegido dos productos novedosos y diferentes, para explicar en que consiste dicha hibridación:
+La evolución natural de los medios y el ordenador como **"metamedio"** ha pasado de un paradigma multimedia, donde existía una combinación de medios más o menos coherente y ordenada, a **una remezcla y fusión de estos.** Los estudios del software nos desvelan que en la actualidad utilizamos esa remezcla de contenidos en continua expansión, tanto de un mismo medio como procedente de otros (Manovich, 2013, P. 313), en lo  que **denomina Manovich como «remezclabilidad profunda»** y que produce un **"metalenguaje".** Esta remezcla es la esencia de lo que denominamos **"hibridación de medios"**. Pero para entender esta y otras características de la hibridación y el paradigma actual del software de medios, no hay nada mejor que aplicarlos a ejemplos y productos que existen en la actualidad. Los productos de software que finalmente he seleccionado para resolver el enigma de la hibridación y en qué consiste han sido:
 
 - *Kitty Zasca*
 - *Geogebra*
 
-> Ambos, como digo, productos muy diferentes, pero definidos por un nexo común: **La hibridación**.
+> Ambos productos muy diferentes, pero definidos por un nexo común: **La hibridación**.
 
 ## **Primer caso: Zitty Zasca.**
 
@@ -33,8 +33,7 @@ Geogebra integra la geometría, el álgebra, la estadística y el cálculo en su
 
 ### **Interactividad**
 
-La interactividad de Geogebra se basa en la manipulación de construcciones matemáticas y ver sus efectos en tiempo real. Los usuarios en base a sus necesidades van realizando planteamientos y soluciones matemáticas de manera gráfica
-
+La interactividad de Geogebra se basa en la manipulación de construcciones matemáticas y ver sus efectos en tiempo real. Los usuarios en base a sus necesidades van realizando planteamientos y soluciones matemáticas de manera gráfica de múltiples maneras combinando estas partes de manera conjunta y remlezclandolas según las necesidades para obtener nuevos resultados de nuevos problemas matemáticos. 
 
 
 > Geogebra es un software innovador en la educación de las matemáticas
