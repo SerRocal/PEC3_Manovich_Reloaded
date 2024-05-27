@@ -31,6 +31,8 @@ Esta serie es un caso perfecto para mostrar la hibridez de los medios en la cult
 
 ## **Segundo caso: Geogebra.**
 
+![Geogebra un software que ha revolucionado las matematicas en las aulas](https://exelearning.net/wp-content/uploads/2020/11/Captura-de-pantalla-2020-11-02-a-las-17.15.49.png)
+
 Geogebra integra la geometría, el álgebra, la estadística y el cálculo en su entorno interactivo. Haciendo posible el acceso desde la educación primaria a una base de enseñanza sobre esta disciplina tan básica. En la actualidad se ha convertido en una herramienta esencial de la enseñanza de las matemáticas a nivel mundial. Su interfaz permite una experiencia visual agradable y simplificada. Su software multiplataforma permite un mayor acceso y facilidad de uso a los usuarios. Vamos a definir las características principales de esta aplicación y por qué estamos ante un caso de  hibridación en estado puro. Así que vamos con algunas de las características más destacadas de Geogebra:
 
 ### **Interactividad y representación en tiempo real**
