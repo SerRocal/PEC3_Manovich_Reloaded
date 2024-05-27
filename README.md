@@ -39,7 +39,7 @@ Geogebra integra la geometría, el álgebra, la estadística y el cálculo en su
 
 La interactividad de Geogebra se basa en la manipulación de construcciones matemáticas y ver sus efectos en tiempo real. Los usuarios basándonos en sus necesidades van realizando planteamientos y soluciones matemáticas de manera gráfica y de múltiples maneras, combinando estas partes de manera conjunta y remlezclandolas según sus necesidades, obteniendo así nuevos resultados a nuevos problemas planteados. El formato del diseño gráfico se fusiona con las matemáticas para dar una experiencia reveladora y única a los usuarios, ya que la construcción se realiza de manera paralela. Esta hibridación consigue un producto real y tangible, ya que las matemáticas no son abstractas, pero el pilar de su enseñanza ha sido así durante generaciones, con lo que se puede conformar en la mente del usuario una aplicación plausible de estas. Estamos ante una nueva manera de interaccionar con la remezcla de diversos "medios, algoritmos y estructuras de datos" (Manovich, 2013, P. 241). Un nuevo tipo de representación hibrida a base de gráficos vectoriales en tiempo real a golpe de clic, algoritmos y fórmulas. Se da así un nuevo producto cultural interactivo. 
 
-> Geogebra es un software innovador en la educación de las matemáticas
+> Geogebra es un software innovador para la educación de las matemáticas en todos los sectores
 
 ### **Diversidad de gráficos**
 
@@ -55,10 +55,22 @@ Como hemos observado, tanto GeoGebra como Kitty Zasca son productos únicos y di
 
 ## **BIBLIOGRAFÍA** ##
 
+Cristobal Javier (2016) Sintaxis Markdown. Markdown. https://markdown.es/sintaxis-markdown/#parrafos 
+
+Edu Bits (s.f.) GeoGebra para la enseñanza de las matemáticas https://observatorio.tec.mx/edu-bits-blog/2017-6-6-geogebra-para-la-enseanza-de-las-matemticas/
+
 Geogebra (2024) ¿Qué es GeoGebra? https://www.geogebra.org/about
 
 Geogebra (2024) Wikipedia https://es.wikipedia.org/wiki/GeoGebra
 
-Edu Bits (s.f.) GeoGebra para la enseñanza de las matemáticas https://observatorio.tec.mx/edu-bits-blog/2017-6-6-geogebra-para-la-enseanza-de-las-matemticas/
+Kitty Zasca (2022). IMDb https://www.imdb.com/title/tt10050740/
+
+Kitty Zasca (2022). FilmAffinity https://www.filmaffinity.com/es/film881543.html
+
+Kitty Zasca (2022). Netflix https://www.netflix.com/es/title/80201492
+
+Kitty Zasca (2024). Wikipedia https://en.wikipedia.org/wiki/Battle_Kitty
+
+
 
 
