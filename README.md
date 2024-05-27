@@ -55,21 +55,25 @@ Como hemos observado, tanto GeoGebra como Kitty Zasca son productos únicos y di
 
 ## **BIBLIOGRAFÍA** ##
 
-Cristobal Javier (2016) Sintaxis Markdown. Markdown. https://markdown.es/sintaxis-markdown/#parrafos 
+Adell Español, Ferran (2024). Fundamentos y evolución de la multimedia. Barcelona: Editorial UOC.
 
-Edu Bits (s.f.) GeoGebra para la enseñanza de las matemáticas https://observatorio.tec.mx/edu-bits-blog/2017-6-6-geogebra-para-la-enseanza-de-las-matemticas/
+[Cristobal Javier (2016) Sintaxis Markdown. Markdown.](https://markdown.es/sintaxis-markdown/#parrafos)
 
-Geogebra (2024) ¿Qué es GeoGebra? https://www.geogebra.org/about
+[Edu Bits (s.f.) GeoGebra para la enseñanza de las matemáticas] (https://observatorio.tec.mx/edu-bits-blog/2017-6-6-geogebra-para-la-enseanza-de-las-matemticas/)
 
-Geogebra (2024) Wikipedia https://es.wikipedia.org/wiki/GeoGebra
+[Geogebra (2024) ¿Qué es GeoGebra?] (https://www.geogebra.org/about)
 
-Kitty Zasca (2022). IMDb https://www.imdb.com/title/tt10050740/
+[Geogebra (2024) Wikipedia] (https://es.wikipedia.org/wiki/GeoGebra)
 
-Kitty Zasca (2022). FilmAffinity https://www.filmaffinity.com/es/film881543.html
+[Kitty Zasca (2022). IMDb] (https://www.imdb.com/title/tt10050740/)
 
-Kitty Zasca (2022). Netflix https://www.netflix.com/es/title/80201492
+[Kitty Zasca (2022). FilmAffinity] (https://www.filmaffinity.com/es/film881543.html)
 
-Kitty Zasca (2024). Wikipedia https://en.wikipedia.org/wiki/Battle_Kitty
+[Kitty Zasca (2022). Netflix] (https://www.netflix.com/es/title/80201492)
+
+[Kitty Zasca (2024). Wikipedia] (https://en.wikipedia.org/wiki/Battle_Kitty)
+
+Manovich, Lev (2013). El Software toma el mando. Editorial UOCpress comunicación
 
 
 
