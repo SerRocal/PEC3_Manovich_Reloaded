@@ -52,7 +52,9 @@ Como hemos observado, tanto GeoGebra como Kitty Zasca son productos únicos y di
 ## **BIBLIOGRAFÍA** ##
 
 Geogebra (2024) ¿Qué es GeoGebra? https://www.geogebra.org/about
+
 Geogebra (2024) Wikipedia https://es.wikipedia.org/wiki/GeoGebra
+
 Edu Bits (s.f.) GeoGebra para la enseñanza de las matemáticas https://observatorio.tec.mx/edu-bits-blog/2017-6-6-geogebra-para-la-enseanza-de-las-matemticas/
 
 
