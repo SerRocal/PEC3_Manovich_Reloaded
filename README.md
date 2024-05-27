@@ -9,6 +9,8 @@ La evolución natural de los medios y el ordenador como **"metamedio"** ha pasad
 
 ## **Primer caso: Kitty Zasca.**
 
+![Kitty Zasca una aventura emocionante](https://m.media-amazon.com/images/M/MV5BMmQxZTdjN2EtYjY1Yy00OWZlLWE4OTctMWJhY2JlZjM5YjRjXkEyXkFqcGdeQXVyMjAxMTE0ODU@._V1_.jpg)
+
 En entretenimiento infantil, como cualquier otro producto de los nuevos medios, está en constante evolución. Kitty Zasca emerge en 2022 como un producto pionero y distintivo, destacando su interactividad integrada y su **hibridación de medios.** Esta serie permite a los espectadores tomar ciertas decisiones sobre la trama, ir descubriendo la serie, incluso mundos ocultos, **creando una experiencia multisensorial.** ¿Pero qué tiene este producto digital y novedoso que no tengan otros? y ¿Por qué es una remezcla de contenidos y medios? Más allá de esa interactividad, es un referente en la hibridación y tengo algunos motivos muy claros para definir por qué:
 
 ### **Mapa Interactivo:**
